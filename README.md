@@ -1,9 +1,12 @@
-### Hi there 👋
+Elixir | Phoenix Framework | ReactJS
+If You Don't Build Your Dream, Someone Will Hire You To Build Their's. Smart-Hardwork pays.
+ 
 
 <!--
 **LuisRoyZulu06/LuisRoyZulu06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 👋 Hi there
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
