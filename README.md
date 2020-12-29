@@ -1,4 +1,4 @@
-Elixir | Phoenix Framework | ReactJS <br>
+Elixir | Phoenix Framework <br>
 If You Don't Build Your Dream, Someone Will Hire You To Build Their's. Smart-Hardwork pays.
  
 
