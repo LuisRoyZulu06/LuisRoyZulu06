@@ -6,7 +6,7 @@ I am currently working on a school management system called Shikola and I have p
 SmartPAY
 - Payment and tax collections system.
 - Deployed the system at:
-- First Allaiance Bank | First Capital Bank | Stanbic Bank | United Bank for Africa | ZANACO | ZICB
+  First Allaiance Bank | First Capital Bank | Stanbic Bank | United Bank for Africa | ZANACO | ZICB
 
 eNHIMA
 - Health Insurance System for National Health Insurance Management Authority (NHIMA)
