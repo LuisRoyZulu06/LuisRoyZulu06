@@ -1,4 +1,9 @@
-<h1> Hi, i'm Luis </h1>
+<style>
+ .hdr{
+   text-align: center;
+ }
+ </style>
+<h1 class="hdr"> Hi, i'm Luis </h1>
 <hr>
 React | Bootstrap | Elixir | SQL |  <br>
 The best time to learn programming was yesterday, the other best time is today!
