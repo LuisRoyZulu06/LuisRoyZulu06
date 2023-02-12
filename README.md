@@ -1,5 +1,5 @@
-Elixir | Phoenix Framework <br>
-If You Don't Build Your Dream, Someone Will Hire You To Build Their's. Smart-Hardwork pays.
+React | Bootstrap | Elixir | SQL |  <br>
+The best time to learn programming was yesterday, the other best time is today!
  
 
 <!--
