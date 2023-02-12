@@ -1,5 +1,6 @@
 <h1 style=" text-align: center;"> Hi, i'm Luis </h1>
 <hr>
+Thank you for visiting my profile, I am a software engineer, currently working with great minds at <a href="https://probasegroup.com">Probasegroup.com</a>
 React | Bootstrap | Elixir | SQL |  <br>
 The best time to learn programming was yesterday, the other best time is today!
  
