@@ -1,7 +1,7 @@
 <h1> Hi, i'm Luis </h1>
 
-Thank you for visiting my profile, I am a software engineer currently working with great minds at <a href="https://probasegroup.com">Probase Limited</a>
-I am currently leaning more on System Analysis as part of my day to job, previously I have worked on:
+Thank you for visiting my profile, I am a software engineer currently working with great minds at <a href="https://probasegroup.com">Probase Limited</a>.
+My day to day job has shifted, currently leaning more on System Analysis than development, previously I have worked on but not limited to:
 
 SmartPAY
 - Payment and tax collections system.
