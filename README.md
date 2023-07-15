@@ -1,7 +1,7 @@
 <h1> Hi, i'm Luis </h1>
 
 Thank you for visiting my profile, I am a software engineer currently working with great minds at <a href="https://probasegroup.com">Probase Limited</a>
-I am currently working on a school management system called Shikola and I have previously worked on:
+I am currently leaning more on System Analysis as part of my day to job, previously I have worked on:
 
 SmartPAY
 - Payment and tax collections system.
