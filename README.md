@@ -1,7 +1,9 @@
 <h1> Hi, i'm Luis </h1>
 
 Thank you for visiting my profile, I am a software engineer currently working with great minds at <a href="https://probasegroup.com">Probase Limited</a>.
-My day to day job has shifted, currently leaning more on System Analysis than development, previously I have worked on but not limited to:
+My day to day job has shifted, I have been promoted to a managerial position as the Head of Technology Business Transformation.  
+My role involves scouting new technologies like AI, Machine Learning, IoT, and Blockchain, ensuring their effective implementation, cyber security, and client support.  
+Previously I have worked on but not limited to:
 
 SmartPAY
 - Payment and tax collections system.
