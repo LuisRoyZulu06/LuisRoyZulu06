@@ -1,9 +1,9 @@
 <h1> Hi, i'm Luis </h1>
 
-Thank you for visiting my profile, I am a software engineer currently working with great minds at <a href="https://probasegroup.com">Probase Limited</a>.
-My day to day job has shifted, I have been promoted to a managerial position as the Head of Technology Business Transformation.  
-My role involves scouting new technologies like AI, Machine Learning, IoT, and Blockchain, ensuring their effective implementation, cyber security, and client support.  
-Previously I have worked on but not limited to:
+Thank you for visiting my profile, I am a Data Analyst & Software Engineer currently working with great minds at <a href="https://kuala.io/">Kuala Tech</a> as a TPM.
+As a Technical Project Manager, my role involves Project Planning & Execution, Risk Management, QA, Team Collaboration & Coordination, Stakeholder Management and Supporting Admin & Finance. 
+
+Some key projects I have worked on include:
 
 SmartPAY
 - Payment and tax collections system.
@@ -21,8 +21,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/luis-roy-zulu-b7b49bb8/">Luis Roy
 
 Email: <a href="mailto:luiszulu6@gmail.com"> luiszulu6@gmail.com </a> | <a href="mailto:luiszulu9@live.com"> luiszulu9@live.com </a>
 
-
-React | Bootstrap | Elixir | SQL |  <br>
+Elixir | JavaScript | SQL | Kaggle | BigQuery | MSSQL | Postgres  <br>
 The best time to learn programming was yesterday, the other best time is today!
  
 
