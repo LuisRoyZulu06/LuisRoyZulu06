@@ -21,10 +21,9 @@ LinkedIn: <a href="https://www.linkedin.com/in/luis-roy-zulu-b7b49bb8/">Luis Roy
 
 Email: <a href="mailto:luiszulu6@gmail.com"> luiszulu6@gmail.com </a> | <a href="mailto:luiszulu9@live.com"> luiszulu9@live.com </a>
 
-Elixir | JavaScript | SQL | Kaggle | BigQuery | MSSQL | Postgres  <br>
 The best time to learn programming was yesterday, the other best time is today!
 
-### 🚀 Skills and Tools:
+### 🚀 My Skills and Tools Include:
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,postman,go,js,mysql,vscode,postgres,bootstrap,css,html,git,github,stackoverflow)](https://skillicons.dev)
  
