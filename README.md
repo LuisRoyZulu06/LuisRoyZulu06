@@ -26,7 +26,7 @@ The best time to learn programming was yesterday, the other best time is today!
 
 ### 🚀 Skills and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=elixir,erlang,go,js,mysql,mssql,postgres,bootstrap,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,javascript,go,js,mysql,vscode,postgres,bootstrap,css,html)](https://skillicons.dev)
  
  
 
