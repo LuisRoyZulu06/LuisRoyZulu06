@@ -23,6 +23,11 @@ Email: <a href="mailto:luiszulu6@gmail.com"> luiszulu6@gmail.com </a> | <a href=
 
 Elixir | JavaScript | SQL | Kaggle | BigQuery | MSSQL | Postgres  <br>
 The best time to learn programming was yesterday, the other best time is today!
+
+### 🚀 Skills and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=elixir,erlang,go,js,mysql,mssql,postgres,bootstrap,css,html)](https://skillicons.dev)
+ 
  
 
 <!--
