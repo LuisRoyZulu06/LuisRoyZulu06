@@ -3,7 +3,7 @@
 Thank you for visiting my profile, I am a Data Analyst & Software Engineer currently working with great minds at <a href="https://kuala.io/">Kuala Tech</a> as a TPM.
 As a Technical Project Manager, my role involves Project Planning & Execution, Risk Management, QA, Team Collaboration & Coordination, Stakeholder Management and Supporting Admin & Finance. 
 
-Some key projects I have worked on include:
+I am passionate about software engineering, in particular web-development. Some key projects I have worked on include:
 
 SmartPAY
 - Payment and tax collections system.
