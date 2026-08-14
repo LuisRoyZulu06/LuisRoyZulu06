@@ -1,25 +1,28 @@
 <h1> Hi, i'm Luis </h1>
 
-Thank you for visiting my profile, I am a Data Analyst & Software Engineer currently working with great minds at <a href="https://kuala.io/">Kuala Tech</a> as a TPM.
-As a Technical Project Manager, my role involves Project Planning & Execution, Risk Management, QA, Team Collaboration & Coordination, Stakeholder Management and Supporting Admin & Finance. 
+A Technology & Digital Transformation professional focused on building and delivering digital platforms that solve real business and operational problems.
 
-I am passionate about software engineering, in particular web-development. Some key projects I have worked on include:
+Over the years, I’ve worked across fintech, insurtech, healthcare, and automotive technology, leading the delivery, evolution, and deployment of business-critical platforms.
 
-SmartPAY
-- Payment and tax collections system.
-- Deployed the system at:
-  First Allaiance Bank | First Capital Bank | Stanbic Bank | United Bank for Africa | ZANACO | ZICB
+Some of the platforms I’ve worked on include:
 
-eNHIMA
-- Health Insurance System for National Health Insurance Management Authority (NHIMA)
+• EasyCover — An insurance management platform supporting underwriting, policy administration, claims, and reinsurance operations.
 
-In my free time I write articles on <a href="https://luisroyzulu.medium.com/">Medium</a>
+• WhiteBook — Zambia’s vehicle valuation and automotive data platform, supporting data-driven vehicle pricing, vehicle history, marketplaces, and industry decision-making.
+
+• SmartPAY — a digital payments and collections platform deployed across multiple financial institutions, supporting bank integrations, regulatory payments, interoperable payments, and digital financial services.
+
+• eNHIMA — a national health insurance platform supporting collections, reporting, and digital health insurance administration.
+
+My experience spans technology leadership, product delivery, software engineering, systems analysis, digital transformation, data analytics, integrations, and stakeholder management.
+
+I’m particularly interested in the intersection of technology, data, and business strategy — turning complex operational challenges into practical, scalable digital solutions.
+
+I also write about technology, digital transformation, and ideas that interest me on <a href="https://luisroyzulu.medium.com/">Medium</a>
 
 📫 How to reach me:
 
 LinkedIn: <a href="https://www.linkedin.com/in/luis-roy-zulu-b7b49bb8/">Luis Roy Zulu</a>
-
-Email: <a href="mailto:luiszulu6@gmail.com"> luiszulu6@gmail.com </a> | <a href="mailto:luiszulu9@live.com"> luiszulu9@live.com </a>
 
 The best time to learn programming was yesterday, the other best time is today!
 
