@@ -1,8 +1,6 @@
 <h1> Hi, i'm Luis </h1>
 
-A Technology & Digital Transformation professional focused on building and delivering digital platforms that solve real business and operational problems.
-
-Over the years, I’ve worked across fintech, insurtech, healthcare, and automotive technology, leading the delivery, evolution, and deployment of business-critical platforms.
+A Technology & Digital Transformation professional focused on building and delivering digital platforms that solve real business and operational problems. Over the years, I’ve worked across fintech, insurtech, healthcare, and automotive technology, leading the delivery, evolution, and deployment of business-critical platforms.
 
 Some of the platforms I’ve worked on include:
 
@@ -10,9 +8,9 @@ Some of the platforms I’ve worked on include:
 
 • WhiteBook — Zambia’s vehicle valuation and automotive data platform, supporting data-driven vehicle pricing, vehicle history, marketplaces, and industry decision-making.
 
-• SmartPAY — a digital payments and collections platform deployed across multiple financial institutions, supporting bank integrations, regulatory payments, interoperable payments, and digital financial services.
+• SmartPAY — A digital payments and collections platform deployed across multiple financial institutions, supporting bank integrations, regulatory payments, interoperable payments, and digital financial services.
 
-• eNHIMA — a national health insurance platform supporting collections, reporting, and digital health insurance administration.
+• eNHIMA — A national health insurance platform supporting collections, reporting, and digital health insurance administration.
 
 My experience spans technology leadership, product delivery, software engineering, systems analysis, digital transformation, data analytics, integrations, and stakeholder management.
 
